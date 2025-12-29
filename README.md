@@ -2,7 +2,7 @@
 
 Hello! I am **Asthana Satyam** 👋
 
-This project reads sales data, cleans it, calls an API, analyzes it, and generates a report.
+This project reads sales data, cleans it, calls an external API, analyzes the data, and generates detailed sales reports.
 
 ---
 
@@ -13,6 +13,8 @@ This project reads sales data, cleans it, calls an API, analyzes it, and generat
 - Click **Start**
 - Type **PowerShell**
 - Open **Windows PowerShell**
+
+---
 
 ### 2. Go to project folder
 
