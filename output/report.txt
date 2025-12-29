@@ -1,21 +1,65 @@
 SALES ANALYTICS REPORT
 ------------------------------
-Top Products:
-LaptopPremium: Rs 2,069,871.00
-Monitor: Rs 493,759.00
-Laptop: Rs 184,329.00
-MonitorLED: Rs 132,104.00
-Webcam: Rs 128,187.00
+Total Revenue:
+₹3,578,094.00
 
-Sales by Region:
-South: Rs 889,332.00
-East: Rs 467,969.00
-North: Rs 1,321,605.00
-West: Rs 848,902.00
+Region Wise Sales:
+North: ₹1,346,375.00 (37.63%)
+South: ₹896,796.00 (25.06%)
+West: ₹856,852.00 (23.95%)
+East: ₹465,674.00 (13.01%)
+: ₹12,397.00 (0.35%)
+
+Top Selling Products:
+Wireless Mouse → 61 units, Revenue: ₹53,396.00
+Mouse → 61 units, Revenue: ₹40,297.00
+USB Cable → 48 units, Revenue: ₹8,209.00
+Webcam → 45 units, Revenue: ₹159,057.00
+Laptop Charger → 33 units, Revenue: ₹63,506.00
 
 Top Customers:
-C004: Rs 857,124.00
-C017: Rs 762,460.00
-C010: Rs 457,186.00
-C024: Rs 249,451.00
-C008: Rs 216,176.00
+C004 → Spent: ₹857,124.00, Orders: 3
+C017 → Spent: ₹762,460.00, Orders: 1
+C010 → Spent: ₹457,186.00, Orders: 3
+C024 → Spent: ₹261,848.00, Orders: 3
+C008 → Spent: ₹216,176.00, Orders: 5
+
+Daily Sales Trend:
+2024-12-01: ₹123,969.00 from 3 orders, Customers: 2
+2024-12-02: ₹882,906.00 from 5 orders, Customers: 5
+2024-12-03: ₹61,851.00 from 5 orders, Customers: 5
+2024-12-05: ₹257.00 from 1 orders, Customers: 1
+2024-12-06: ₹64,942.00 from 2 orders, Customers: 2
+2024-12-07: ₹212,862.00 from 11 orders, Customers: 8
+2024-12-08: ₹70,383.00 from 3 orders, Customers: 3
+2024-12-09: ₹25,339.00 from 4 orders, Customers: 4
+2024-12-10: ₹1,550.00 from 2 orders, Customers: 2
+2024-12-11: ₹10,912.00 from 3 orders, Customers: 3
+2024-12-12: ₹1,938.00 from 1 orders, Customers: 1
+2024-12-13: ₹408,941.00 from 4 orders, Customers: 4
+2024-12-14: ₹45,349.00 from 2 orders, Customers: 2
+2024-12-15: ₹818,960.00 from 1 orders, Customers: 1
+2024-12-16: ₹3,020.00 from 1 orders, Customers: 1
+2024-12-17: ₹114,356.00 from 1 orders, Customers: 1
+2024-12-18: ₹81,284.00 from 2 orders, Customers: 1
+2024-12-20: ₹594.00 from 1 orders, Customers: 1
+2024-12-21: ₹25,992.00 from 1 orders, Customers: 1
+2024-12-22: ₹89,645.00 from 6 orders, Customers: 6
+2024-12-23: ₹768.00 from 1 orders, Customers: 1
+2024-12-24: ₹161,907.00 from 4 orders, Customers: 4
+2024-12-25: ₹30,455.00 from 4 orders, Customers: 4
+2024-12-26: ₹42,626.00 from 3 orders, Customers: 2
+2024-12-27: ₹119,313.00 from 2 orders, Customers: 2
+2024-12-28: ₹0.00 from 1 orders, Customers: 1
+2024-12-29: ₹18,005.00 from 3 orders, Customers: 3
+2024-12-30: ₹159,970.00 from 3 orders, Customers: 3
+
+Peak Sales Day:
+2024-12-02 → ₹882,906.00 from 5 orders
+
+Low Performing Products:
+Laptop → 3 units, Revenue: ₹184,329.00
+Keyboard,Mechanical → 5 units, Revenue: ₹13,360.00
+Webcam,HD → 6 units, Revenue: ₹17,862.00
+Laptop Charger,65W → 7 units, Revenue: ₹19,922.00
+Mouse,Wireless → 8 units, Revenue: ₹6,784.00
