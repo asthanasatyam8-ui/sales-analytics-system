@@ -1,0 +1,21 @@
+SALES ANALYTICS REPORT
+------------------------------
+Top Products:
+LaptopPremium: Rs 2,069,871.00
+Monitor: Rs 493,759.00
+Laptop: Rs 184,329.00
+MonitorLED: Rs 132,104.00
+Webcam: Rs 128,187.00
+
+Sales by Region:
+South: Rs 889,332.00
+East: Rs 467,969.00
+North: Rs 1,321,605.00
+West: Rs 848,902.00
+
+Top Customers:
+C004: Rs 857,124.00
+C017: Rs 762,460.00
+C010: Rs 457,186.00
+C024: Rs 249,451.00
+C008: Rs 216,176.00
